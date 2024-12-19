@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/react-router": "^5.1.20",
     "axios": "^1.7.9",
     "formik": "^2.4.6",
     "jose": "^5.9.6",
